@@ -1,0 +1,36 @@
+{
+  "name": "react-native-gradient-texts",
+  "version": "1.0.0",
+  "description": "React Native component for different Gradient styled Texts for iOS & Android.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-gradient-text/react-native-gradient-text.git"
+  },
+  "keywords": [
+    "react-native-gradient-text",
+    "react-native-bordered-text",
+    "react-native-text-gradient",
+    "react-native-gradient-bordered-text",
+    "react-native-stroked-text",
+    "gradient-text",
+    "react-native-gradient-stroked-text",
+    "text",
+    "react-native-text",
+    "gradient",
+    "text-gradient-color",
+    "linear-gradient"
+  ],
+  "author": "Drashti Sabhaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-native-gradient-text/react-native-gradient-text/issues"
+  },
+  "homepage": "https://github.com/react-native-gradient-text/react-native-gradient-text#readme",
+  "dependencies": {
+    "react-native-svg": "^13.1.0"
+  }
+}
