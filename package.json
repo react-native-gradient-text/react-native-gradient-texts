@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-gradient-text/react-native-gradient-text.git"
+    "url": "git+https://github.com/react-native-gradient-text/react-native-gradient-texts.git"
   },
   "keywords": [
     "react-native-gradient-text",
@@ -27,9 +27,9 @@
   "author": "Drashti Sabhaya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-native-gradient-text/react-native-gradient-text/issues"
+    "url": "https://github.com/react-native-gradient-text/react-native-gradient-texts/issues"
   },
-  "homepage": "https://github.com/react-native-gradient-text/react-native-gradient-text#readme",
+  "homepage": "https://github.com/react-native-gradient-text/react-native-gradient-texts#readme",
   "dependencies": {
     "react-native-svg": "^13.1.0"
   }
